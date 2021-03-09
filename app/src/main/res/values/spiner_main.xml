@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_items">
+        <item>https://www.google.com/</item>
+        <item>https://twitter.com/?lang=ja</item>
+        <item>https://www.amazon.co.jp/</item>
+    </string-array>
+</resources>
